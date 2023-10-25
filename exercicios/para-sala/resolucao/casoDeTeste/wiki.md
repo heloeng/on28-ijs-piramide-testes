@@ -22,13 +22,15 @@
   - Verificar que possui a sessão de Referências
 
 3. **Navegação pela Página:**
-   
+  - Se clicar em uma página vai para o link correto
 
 6. **Pesquisa por Evento Atual:**
  
 
 **Pós-condições:**
-
+- O usuário pode navegar pela página wikipedia e
+- Acessar informações relevantes
+- Os links externos estão funcionando
 
 **Critérios de Aceitação:**
 - não apresenta mensagens de erro
